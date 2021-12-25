@@ -6,6 +6,10 @@ categories: myog tarp
 
 ---
 
+Originally posted on [Reddit](https://www.reddit.com/r/myog/comments/oktpdo/sub200g_silpoly_flat_tarp/).
+
+![backyard test](/assets/img/tarp/PXL_20210705_072731751.jpg)
+
 As my second MYOG project (after an Apex quilt - posted a few weeks ago), I chose a flat silpoly tarp.
 
 **Dimensions: 280x140 cm (110x55 in)**
@@ -25,7 +29,7 @@ As my second MYOG project (after an Apex quilt - posted a few weeks ago), I chos
 
 ## Inspiration
 
-This build is heavily inspired by u/noemazor 's silpoly tarp (https://www.reddit.com/r/myog/comments/cq1vsc/1185oz_silpoly_aframe_tarp_w_perimeter_bug_netting/). The main differences are:
+This build is heavily inspired by [u/noemazor's silpoly tarp](https://www.reddit.com/r/myog/comments/cq1vsc/1185oz_silpoly_aframe_tarp_w_perimeter_bug_netting/). The main differences are:
 
 - no bug net (might add later)
 - no taper towards the end, because I ordered the non-XL silpoly by mistake, so it's already very narrow (about 140 cm)
@@ -69,3 +73,27 @@ I tried to make it as simple as possible, so it can be easily reproduced
 5. Let the glue dry for a couple of hours.
 6. Sew a rolled hem around the whole rectangle fabric (3mm stitch length).
 7. Sew on the 9 grosgrain tieouts (using the Nature Calls method).
+
+![](/assets/img/tarp/PXL_20210705_183124071.jpg)
+
+*The first real test on a weekend trip.*
+
+![](/assets/img/tarp/PXL_20210703_154145414.jpg)
+
+*First I cut out 6 reinforcements for the corners and ridgeline tieouts.*
+
+![](/assets/img/tarp/PXL_20210703_232328354.jpg)
+
+*Reinforcements glued to the main fabric using the Seam Grip glue. I let it dry overnight.*
+
+![](/assets/img/tarp/PXL_20210704_170045988.jpg)
+
+*Sewing a rolled hem around the edges.*
+
+![](/assets/img/tarp/PXL_20210704_175237726.jpg)
+
+*Sewing on the tieout grosgrain. This was more difficult than it seemed, but I got the hang of it by the end.*
+
+![](/assets/img/tarp/PXL_20210704_195416715.jpg)
+
+*Adding lines with mini line-loks.*
