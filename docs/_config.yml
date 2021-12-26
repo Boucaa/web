@@ -42,7 +42,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-compress-images
 
+imageoptim:
+  svgo: false
 
+exclude:
+  - _compress_images_cache.yml
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
