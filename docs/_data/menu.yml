@@ -3,8 +3,16 @@ entries:
     entries:
       - title: a curious guy trying to write about his interests
       - title: "contact me: hello@janboucek.com"
-  - title: all posts
+  - title: Make Your Own Gear
     post_list:
+      category: myog
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+  - title: Tea
+    post_list:
+      category: tea
       limit: 5
       show_more: true
       show_more_text: See archive...
