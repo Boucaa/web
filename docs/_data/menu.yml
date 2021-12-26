@@ -2,6 +2,7 @@ entries:
   - title: info
     entries:
       - title: a curious guy trying to write about his interests
+      - title: "contact me: hello@janboucek.com"
   - title: all posts
     post_list:
       limit: 5
