@@ -34,6 +34,13 @@ To be added soon:
 - a bit more expensive at 0.175 USD/g, but totally worth it
 - ordered a second cake
 
+### [2018 Waffles](https://white2tea.com/products/2018-waffles)
+
+- smooth texture
+- dark flavor profile, wood and cocoa
+- there's nothing agressive, so I'd say it's a good tea for beginners, but the bitterness is maybe a bit too much, especially since it's not really balanced by any higher notes or sweetness
+- ok tea as a daily drinker, not sure if it's the best for my palate
+
 ## White Tea
 
 ### [2018 Nightlife](https://white2tea.com/products/2018-nightlife)
