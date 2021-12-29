@@ -10,7 +10,6 @@ The list below is an archive of quick tasting notes of White2Tea teas that I've 
 
 To be added soon:
 
-- 2018 Waffles
 - 2018 Turtle Dove
 - 2018 Censers
 - 2021 Hot Brandy
