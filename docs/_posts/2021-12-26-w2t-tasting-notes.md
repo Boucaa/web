@@ -40,13 +40,23 @@ To be added soon:
 - there's nothing agressive, so I'd say it's a good tea for beginners, but the bitterness is maybe a bit too much, especially since it's not really balanced by any higher notes or sweetness
 - ok tea as a daily drinker, not sure if it's the best for my palate
 
+### [2021 Lumber Slut](https://white2tea.com/products/2021-lumber-slut)
+
+- as the name suggests, strong wood flavor and dry texture
+- not very complex, but I don't consider that a downside
+- enjoyable for me, but it's definitely a personal choice
+- I wouldn't drink this every day, it really depends on the mood - great tea for gloomy weather
+
 ## White Tea
 
 ### [2018 Nightlife](https://white2tea.com/products/2018-nightlife)
 
 - my first cake of white tea
 - tastes similar to a young raw puerh, which makes sense due to the origin
+  - honey-like sweetness with a bit of a raw punch
+
 - I like to brew this with boiling water to get a heavy full-bodied brew
+- easy to overbrew, make sure to not use too much leaf
 - an enjoyable tea to sit down, relax and let your thoughts wander
 
 ## Oolong
@@ -54,4 +64,6 @@ To be added soon:
 ### [Snowflake Dancong](https://white2tea.com/products/snowflake-dancong-1)
 
 - ok tea, hasn't impressed me so far, maybe I'm brewing it wrong
+- a clear fruity phoenix aroma right from the start, accompanied by an unexpected vegetal note, which I stopped noticing after the second steep
+- easy to overbrew
 
