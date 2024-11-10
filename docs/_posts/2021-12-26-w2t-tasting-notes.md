@@ -46,6 +46,7 @@ To be added soon:
 - not very complex, but I don't consider that a downside
 - enjoyable for me, but it's definitely a personal choice
 - I wouldn't drink this every day, it really depends on the mood - great tea for gloomy weather
+- 2024 update: now very smooth but still one dimensional. Great no-nonsense daily drinker
 
 ## White Tea
 
